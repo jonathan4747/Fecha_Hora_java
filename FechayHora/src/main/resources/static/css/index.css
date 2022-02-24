@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+
+.menu{
+	display: flex;
+	justify-content: space-evenly;
+	margin-top :150px;
+}
+
+.date{
+	text-align: center;
+	color: blue;
+}
+
+.times{
+	text-align: center;
+	color: green;
+}
